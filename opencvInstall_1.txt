@@ -1,0 +1,9 @@
+Run in CMD :    
+    >>python --version
+    >>pip -V 
+    >>pip install opencv-python
+    >>python
+        >>import cv2
+        >>print(cv2.__version__)
+
+        
